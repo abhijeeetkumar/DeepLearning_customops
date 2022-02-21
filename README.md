@@ -1,2 +1,2 @@
 # NLP_embedding
-pytorch library for DeepLearning network
+cutom ops library for DeepLearning network (pytorch like)
